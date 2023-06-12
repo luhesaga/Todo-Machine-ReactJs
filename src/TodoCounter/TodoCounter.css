@@ -3,9 +3,11 @@
     text-align: center;
     margin: 0;
     padding: 48px;
-    font-weight: normal;
+    font-weight: 500;
+    color: antiquewhite;
   }
   
   .TodoCounter span {
     font-weight: bold;
+    color: cadetblue;
   }

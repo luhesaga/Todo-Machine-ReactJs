@@ -3,7 +3,9 @@ import './EmptyTodos.css';
 
 function EmptyTodos() {
     return (
-        <p>Crea tu primer todo</p>
+        <div className="firts-todo">
+            <h3>Crea tu primer TODO</h3>
+        </div>
     )
 }
 
